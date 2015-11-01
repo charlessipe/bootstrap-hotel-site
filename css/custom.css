@@ -49,4 +49,14 @@ tagline font size, alignment, and padding for larger dimensions.
 		text-align: right;
 		padding-top: 1.6em;
 	}
+
+  .panel-primary .panel-heading {
+  	background-color: #602F8D;
+  	border-color: #602F8D;
+  }
+
+  .panel {
+  	border-color: #602F8D;
+  }
+
 }
